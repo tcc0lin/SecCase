@@ -1,1 +1,1 @@
-# sec_case
+# SecCase
