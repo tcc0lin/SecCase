@@ -1,2 +1,2 @@
-# SecCase 一些检测对抗案例
+# SecCase 检测对抗案例
 
